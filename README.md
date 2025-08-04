@@ -9,7 +9,7 @@ Welcome to my personal portfolio! This is a fully responsive and accessible webs
 ---
 
 ## 📁 Project Structure
-├── index.html # Main web page
+    index.html # Main web page
 ├── style.css # Styling file
 ├── assets/ # Images and downloadable resume
 │ ├── nyagu.jpg
