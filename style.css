@@ -204,13 +204,6 @@ body {
 }
 /* Programming Language section */
 .language-section {
-  /* padding: 80px 20px;
-  max-width: 1600px;
-  margin: 30px auto;
-  background: linear-gradient(135deg, #ECEFF1 0%, #CFD8DC 100%);
-  border-radius: 15px;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease; */
   padding: 100px 20px;
   background: linear-gradient(135deg, #ECEFF1 0%, #CFD8DC 100%);
   position: relative;
@@ -405,13 +398,6 @@ body {
   background: linear-gradient(135deg, #ECEFF1 0%, #CFD8DC 100%);
   position: relative;
   overflow: hidden;
-  /* padding: 80px 20px;
-  max-width: 1600px;
-  margin: 30px auto;
-  background: linear-gradient(135deg, #ECEFF1 0%, #CFD8DC 100%); */
-  /* border-radius: 15px;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1); */
-  /* transition: transform 0.3s ease; */
 }
 
 .projects-section h2 {
@@ -472,13 +458,6 @@ body {
   background: linear-gradient(135deg, #ECEFF1 0%, #CFD8DC 100%);
   position: relative;
   overflow: hidden;
-  /* padding: 80px 20px;
-  max-width: 1600px;
-  margin: 30px auto;
-  background: linear-gradient(135deg, #ECEFF1 0%, #CFD8DC 100%); */
-  /* border-radius: 15px;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1); */
-  /* /* transition: transform 0.3s ease; */
   text-align: center;
 }
 .interests-section h2 {
@@ -513,17 +492,7 @@ body {
   background: linear-gradient(135deg, #ECEFF1 0%, #CFD8DC 100%);
   position: relative;
   overflow: hidden;
-  /* padding: 80px 20px;
-  max-width: 1600px;
-  margin: 30px auto;
-  background: linear-gradient(135deg, #ECEFF1 0%, #CFD8DC 100%); */
-  /* border-radius: 15px;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1); */
-  /* /* transition: transform 0.3s ease; */
   text-align: center;
-}
-.contact-section:hover {
-  transform: translateY(-5px);
 }
 .contact-section h2 {
   color: #263238;
